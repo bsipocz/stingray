@@ -1,0 +1,10 @@
+
+
+@import url("bootstrap-astropy.css");
+
+div.topbar a.brand {
+  background: transparent url("stingray_logo.png") no-repeat 10px 4px;
+  background-image: url("stingray_logo.svg"), none;
+  background-size: 32px 32px;
+
+}
